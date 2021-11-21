@@ -18,3 +18,12 @@ this data set has been manipulated to contain only two columns: review text , an
 - NLTK toolkit to perform common NLP tasks.
 - Sklearn library will be to implement the classification and clustering models.
 - Matplotlib and Seaborn to visualize and discuss the results of the analysis.
+
+#
+[Project Proposal](Proposal_Hotel_Review.md)
+
+[Project MVP](MVP_Hotel_Review.md)
+
+[Project Presentation](https://github.com/AliMufeed/Hotel_Review_NLP/blob/main/Hotel_Reviews_NLP_Presentation.pdf)
+
+[Project Code](Hotel_Reviews_NLP.ipynb)
